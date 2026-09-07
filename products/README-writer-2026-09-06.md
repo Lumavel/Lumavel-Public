@@ -1,0 +1,30 @@
+# Lumavel Writer
+
+**As of:** 2026-09-06  
+**Slug:** `writer`  
+**Status:** beta
+
+## What it is
+
+A writing environment. **Web** at `/apps/writer` (Clerk, local drafts). **Desktop** Electron is still the heavier client. Same Lumavel account. Browser-first; store wraps later.
+
+## Public door
+
+- https://lumavel.co/apps/writer  
+- Local: `pnpm --filter lumavel-website dev` → `:1132/apps/writer`  
+- Desktop: `pnpm writer:dev` (`apps/electron-apps/lumavel-writer`)
+
+## Where in this repo
+
+- Web: `apps/lumavel-website/app/apps/writer`  
+- Electron: `apps/electron-apps/lumavel-writer`  
+- Contracts: `packages/lumavel-writer-contracts`  
+- Runbook: `docs/lumavel-migration/17b-writer-monorepo-import.md`
+
+## What it is not
+
+- Not Iter. Not Publishing House. Not a second Vercel project.
+
+## Next
+
+Same “full app in the browser” depth as Korelira (web still thinner than desktop).

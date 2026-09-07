@@ -1,15 +1,15 @@
-<div align="center">
+﻿<div align="center">
 
 # Lumavel
 
-**Commerce tools for independent creators.**  
+**Software for people â€” learning, making, selling, and belonging.**  
 *Business & software arm of [3CL Holdings](https://github.com/Lumavel/3CL-Holdings-Public)*
 
 [![Website](https://img.shields.io/badge/website-lumavel.co-d4a843?style=for-the-badge)](https://lumavel.co)
-[![Shopping Plaza](https://img.shields.io/badge/flagship-Shopping%20Plaza-1a2235?style=for-the-badge&labelColor=0c1020)](https://lumavel.co/lumavelshoppingplaza)
+[![Shopping Plaza](https://img.shields.io/badge/Plaza-marketplace-1a2235?style=for-the-badge&labelColor=0c1020)](https://lumavel.co/lumavelshoppingplaza)
 [![Contact](https://img.shields.io/badge/contact-lumavel.co%2Fcontact-1a2235?style=for-the-badge&labelColor=0c1020)](https://lumavel.co/contact)
 
-*Seller-first marketplace Â· creator tools Â· fair fees Â· you own your customers*
+*The marketplace is a tool. The mission is people.*
 
 </div>
 
@@ -17,13 +17,11 @@
 
 ## What is Lumavel?
 
-**Lumavel** builds tools and marketplaces for **handmade sellers**, **independent creators**, and **small online businesses**.
+**Lumavel** builds lasting software for people who need a place to sell, learn, create, rest, or start over. Commerce is one path â€” not the companyâ€™s identity.
 
-Our flagship product is **[Lumavel Shopping Plaza](https://lumavel.co/lumavelshoppingplaza)** â€” a curated marketplace on [lumavel.co](https://lumavel.co) where sellers get storefronts, marketing tools, and transparent pricing without the algorithm chaos of legacy platforms.
+Live products live on **[lumavel.co](https://lumavel.co)** as **one website** (browser first; app-store wraps later). Production code stays in a **private** monorepo. This public repo is **READMEs only**.
 
-Around the Plaza, we ship an integrated **creator ecosystem**: QR marketing, hosted portfolios, printable generators, Business Hub tools, and **Prism** (Lumavelâ€™s digital archive and creator foundation). One brand, one mission: **help creators succeed online and keep more of what they earn.**
-
-Lumavel is also the software home for shared **[3CL Credits](https://lumavel.co/credits)** used across 3CL Holdings companies (AI features with honest costs â€” free monthly credits, then packs, or bring your own key).
+**As of 2026-09-06.** Product notes in this repo use `README-{product}-YYYY-MM-DD.md` so you can see which snapshot is newest.
 
 ---
 
@@ -33,113 +31,81 @@ Lumavel is also the software home for shared **[3CL Credits](https://lumavel.co/
 |---------|------|-------------|
 | **[3CL Holdings](https://github.com/Lumavel/3CL-Holdings-Public)** | Parent company (portfolio) | Holdings |
 | **Lumavel** (this page) | Business / software arm | [lumavel.co](https://lumavel.co) |
-| **[3CL Interactive](https://github.com/Lumavel/3CL-Interactive-Public)** | Learning, books, family games | [3clinteractive.lumavel.co](https://3clinteractive.lumavel.co) |
-| **[3CL TCG](https://github.com/Lumavel/3CL-TCG-Public)** | Collectibles, Card Nexus hub, GO tools | [3cltcg.lumavel.co](https://3cltcg.lumavel.co) |
+| **[3CL TCG](https://github.com/Lumavel/3CL-TCG-Public)** | Collectibles, Card Nexus, GO tools | [3cltcg.lumavel.co](https://3cltcg.lumavel.co) |
 
-Production code for every company stays in **private** repositories. These `*-Public` repos are showcase READMEs only.
+3CL Interactive is a **sunset public brand** on Lumavel product copy. Iter Discendi, books, and learning doors are **Lumavel**. 3CL TCG remains a sister brand.
+
+Production code stays **private**. `*-Public` repos are showcase READMEs only.
 
 ---
 
-## Creator ecosystem mission
+## Products on lumavel.co (as of 2026-09-06)
 
-We believe independent creators deserve:
+| Product | Door | Status |
+|---------|------|--------|
+| **Shopping Plaza** | [/lumavelshoppingplaza](https://lumavel.co/lumavelshoppingplaza) | Live marketplace |
+| **Business Hub** | [/business/hub](https://lumavel.co/business/hub) | Beta operator workspace |
+| **Business Toolkit** | [/business/tools](https://lumavel.co/business/tools) | Live, free |
+| **Publishing House** | [/publishing](https://lumavel.co/publishing) | Live landing; factory is staff/desktop |
+| **WanderGames** | [/games/wandergames](https://lumavel.co/games/wandergames) | Live |
+| **Writer** | [/apps/writer](https://lumavel.co/apps/writer) | Beta |
+| **Korelira** | [/apps/korelira](https://lumavel.co/apps/korelira) | Beta wellness (not medical care) |
+| **Iter Discendi** | [/learning/iter](https://lumavel.co/learning/iter) | Beta learning path |
+| **Lumavel Library** | [/learning/library](https://lumavel.co/learning/library) | Coming soon |
+| **The Light of Alexandria** | Learning category | Coming soon â€” sourced public archive |
+| **QR** | [/qr](https://lumavel.co/qr) | Live |
+| **Website Health** | [/seo](https://lumavel.co/seo) | Live |
+| **Unit** | [/tools/unit](https://lumavel.co/tools/unit) | Live |
+| **3CL TCG** | [3cltcg.lumavel.co](https://3cltcg.lumavel.co) | Sister brand |
 
-| Principle | What it means at Lumavel |
-|-----------|---------------------------|
-| **Fair economics** | **3%** platform maintenance on Plaza sales (**1.5%** for Founding Partners; vs. ~6.5% on Etsy-style platforms), predictable shelf pricing, Stripe processing passed through |
-| **Owned relationships** | Sellers build **their** email lists and customer connections â€” not rented audience on a black-box feed |
-| **Honest tools** | Marketing, SEO, QR, and analytics that support the shop â€” not upsells bolted on after signup |
-| **Long-term craft** | Curated onboarding, community feedback, and software built for people who make things by hand |
-
-**Current focus:** grow a healthy seller community on Shopping Plaza and refine the tools that make selling and marketing sustainable.
+Dated product READMEs: see the `products/` folder in this public repo (`README-{slug}-2026-09-06.md`).
 
 ---
 
 ## Flagship: Shopping Plaza
 
-**[lumavel.co/lumavelshoppingplaza](https://lumavel.co/lumavelshoppingplaza)**
-
-- Individual shops at `lumavel.co/lumavelshoppingplaza/{your-shop}`
-- Listings, variants, inventory, reviews, Stripe checkout
-- Shop blog, email campaigns, discount codes, QR codes with optional analytics
-- Seller dashboard: analytics, social posting hooks, SEO helpers
-- **Apply to sell:** [lumavel.co/lumavelshoppingplaza/apply](https://lumavel.co/lumavelshoppingplaza/apply)
-
-**Why sellers switch:** lower platform take on sales, transparent fees, and tools that treat your shop as the product â€” not the platformâ€™s ad inventory.
-
----
-
-## Ecosystem tools (on lumavel.co)
-
-These support Plaza sellers and creators; they connect to the same Lumavel account and brand.
-
-| Tool | Purpose |
-|------|---------|
-| **[Shopping Plaza](https://lumavel.co/lumavelshoppingplaza)** | Handmade marketplace â€” **start here** |
-| **[Prism](https://lumavel.co/prism)** | Digital archive & creator resource library |
-| **[QR Generator](https://lumavel.co/qr)** | Free QR codes; optional analytics slots |
-| **[Portfolios](https://lumavel.co/portfolio)** | Professional pages hosted on lumavel.co |
-| **[Generator Suite](https://lumavel.co/generators)** | Printables â€” mazes, word search, Sudoku, tracing, and more |
-| **[3CL Credits](https://lumavel.co/credits)** | Shared AI credit wallet (platform-wide) |
-| **[Business Hub](https://lumavel.co/business)** | Books, CRM, invoices, and business tools |
+**[lumavel.co/lumavelshoppingplaza](https://lumavel.co/lumavelshoppingplaza)** â€” a reviewed, calmer place to sell. Apply is manual. Sellers keep customer relationships. Fair fees. This is **one** Lumavel path, not the whole company.
 
 ---
 
 ## Open source & public repositories
 
-This GitHub organization hosts **curated public repos** â€” company showcases and focused snippets we choose to share.
-
 | Repo type | Visibility |
 |-----------|------------|
-| **`*-Public` company faces** | README-only showcases (this repo and sister `*-Public` repos) |
+| **`*-Public` company faces** | README-only showcases |
 | **Public snippet repos** | Small, intentional open releases |
-| **Core product monorepos** | **Private** â€” production apps, business logic, and infrastructure |
+| **Core product monorepos** | **Private** |
 
-We do **not** mirror full production codebases publicly.
+We do **not** mirror production code publicly.
 
 **Browse:** [github.com/Lumavel](https://github.com/Lumavel?tab=repositories)
 
 ---
 
-## Community resources
+## Community
 
 - **Website:** [lumavel.co](https://lumavel.co)
 - **Contact:** [lumavel.co/contact](https://lumavel.co/contact)
-- **Sell on Plaza:** [Apply for a shop](https://lumavel.co/lumavelshoppingplaza/apply)
-- **Our Stand (values):** [lumavel.co/stand](https://lumavel.co/stand)
-- **Social:** [lumavel.co/social](https://lumavel.co/social)
+- **Our Stand:** [lumavel.co/stand](https://lumavel.co/stand)
+- **Sell on Plaza:** [Apply](https://lumavel.co/lumavelshoppingplaza/apply)
 
 ---
 
 ## Contribution philosophy
 
-1. **Public repos** â€” Issues and PRs welcome when the README says so. Keep changes scoped.
-2. **Private core** â€” Product codebases are not open for contribution; feature work happens through our team and trusted collaborators.
-3. **Safety** â€” Never commit secrets, API keys, `.env` files, or customer data.
-4. **Respect** â€” Family-first, faith-rooted brand. Be constructive; no harassment or spam.
-5. **Seller-first lens** â€” If a change does not help independent creators or sellers, it probably does not belong in our public examples.
-
----
-
-## Links at a glance
-
-| | |
-|---|---|
-| Home | [lumavel.co](https://lumavel.co) |
-| Shopping Plaza | [lumavel.co/lumavelshoppingplaza](https://lumavel.co/lumavelshoppingplaza) |
-| 3CL Credits | [lumavel.co/credits](https://lumavel.co/credits) |
-| 3CL Holdings (public) | [3CL-Holdings-Public](https://github.com/Lumavel/3CL-Holdings-Public) |
-| 3CL Interactive (public) | [3CL-Interactive-Public](https://github.com/Lumavel/3CL-Interactive-Public) |
-| 3CL TCG (public) | [3CL-TCG-Public](https://github.com/Lumavel/3CL-TCG-Public) |
-| Contact | [lumavel.co/contact](https://lumavel.co/contact) |
+1. **Public repos** â€” Issues and PRs when the README says so.  
+2. **Private core** â€” Not open for drive-by product PRs.  
+3. **Safety** â€” No secrets, keys, `.env`, or customer data.  
+4. **Respect** â€” Family-first, faith-rooted. No harassment.
 
 ---
 
 <div align="center">
 
-**Lumavel** â€” *fair commerce tools for handmade sellers and independent creators.*  
+**Lumavel** â€” *people first. Software that lasts.*  
 *Part of [3CL Holdings](https://github.com/Lumavel/3CL-Holdings-Public)*
 
-[Website](https://lumavel.co) Â· [Shopping Plaza](https://lumavel.co/lumavelshoppingplaza) Â· [Contact](https://lumavel.co/contact)
+[Website](https://lumavel.co) Â· [Plaza](https://lumavel.co/lumavelshoppingplaza) Â· [Contact](https://lumavel.co/contact)
 
 </div>
+
