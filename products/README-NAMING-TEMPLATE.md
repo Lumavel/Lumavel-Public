@@ -68,6 +68,6 @@ One paragraph. People first. Not marketing fluff.
 
 | File | Scope |
 |------|--------|
-| `README-lumavel-nexus-{date}.md` | Entire private monorepo |
+| `README-lumavel-{date}.md` | Entire private monorepo (do not use “Nexus”) |
 | `README-lumavel-business-{date}.md` | Lumavel business / Hub / Plaza / tools |
-| Public company face | `docs/github/LUMAVEL_ORG_PROFILE_README.md` → GitHub `Lumavel/Lumavel-Public` |
+| Public company face | GitHub `Lumavel/Lumavel-Public` only |
