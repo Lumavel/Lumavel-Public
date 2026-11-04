@@ -1,5 +1,7 @@
 # Lumavel Sign
 
+> Historical snapshot from September 2026. For current offerings, see the [product index](INDEX.md).
+
 **As of:** 2026-09-06  
 **Slug:** `lumavel-sign`  
 **Status:** development / future

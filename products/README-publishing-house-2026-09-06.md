@@ -1,5 +1,7 @@
 # Lumavel Publishing House
 
+> Historical snapshot from September 2026. For current offerings, see the [product index](INDEX.md).
+
 **As of:** 2026-09-06  
 **Slug:** `publishing-house`  
 **Status:** live (public landing) · staff gated

@@ -1,6 +1,24 @@
-# Status READMEs — index
+# Lumavel product index
 
-**Search here for the newest notes.** Filename date is ISO. Template: [README-NAMING-TEMPLATE.md](./README-NAMING-TEMPLATE.md).
+**Software, games, and learning.** Updated 2026-11-04.
+
+## Current public products
+
+| Product | Current notes |
+| --- | --- |
+| WanderGames | [WanderGames](README-wandergames-2026-11-04.md) |
+| Gaming Almanac | [Gaming Almanac](README-gaming-almanac-2026-11-04.md) |
+| Lumavel QR | [Free QR codes and free analytics](README-lumavel-qr-2026-11-04.md) |
+| Lumavel Shopping Plaza | [Shopping Plaza](README-shopping-plaza-2026-11-04.md) |
+| Lumavel Pages | [Pay pages and social pages](README-lumavel-pages-2026-11-04.md) |
+| Lumavel Unit Converter | [Unit Converter](README-lumavel-unit-2026-11-04.md) |
+| Lumavel website | [Company website](README-lumavel-website-2026-11-04.md) |
+
+## Historical snapshots — September 2026
+
+These notes are retained for history. They may contain retired company names,
+older routes, or availability claims that no longer apply. They are not the
+current product catalog. Refer to the current notes above.
 
 | Date | File | Product |
 |------|------|---------|
