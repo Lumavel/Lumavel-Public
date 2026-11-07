@@ -15,6 +15,7 @@ Lumavel builds games, software, and practical tools for everyday life. Play toge
 | **Lumavel QR** | Create free QR codes with free scan analytics. Anyone can generate and export; a free account provides your saved library and analytics. | [Create a QR code](https://lumavel.co/qr) |
 | **Lumavel Shopping Plaza** | Browse independent shops and listings. Creators and small businesses can apply to run a shop. The Plaza is in early access. | [Visit the Plaza](https://lumavel.co/lumavelshoppingplaza) |
 | **Lumavel Pages** | Publish a pay page or social page with the links you choose. Payments happen through the linked destination. | [Open Lumavel Pages](https://lumavel.co/pages) |
+| **App Icon Resizer** | Download the Windows desktop tool to export iOS, Android, and Google Play icon sizes from master artwork. Defaults to Desktop and remembers a chosen folder. | [Download and instructions](https://lumavel.co/tools#app-icon-resizer) |
 | **Lumavel Unit Converter** | Convert measurements and currencies. History and favorites stay on your device. Free, without ads or tracking. | [Convert units](https://lumavel.co/tools/unit) |
 
 [Read current product notes](products/INDEX.md).
@@ -41,6 +42,6 @@ These are the areas Lumavel builds in. The product list above describes our curr
 
 This is Lumavel's public company and product guide. Production application code stays in private repositories. This repository contains documentation, not the source code for the products linked above.
 
-Current overview updated **2026-11-04**. September 2026 product notes are retained as historical snapshots and may describe retired branding, older routes, or plans that have changed. Start with the [current product index](products/INDEX.md).
+Current overview reviewed **2026-11-07**. September 2026 product notes are retained as historical snapshots and may describe retired branding, older routes, or plans that have changed. Start with the [current product index](products/INDEX.md).
 
 **Lumavel — Software, games, and learning.**
